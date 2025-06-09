@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am V.Pavan chaitanya.<br>I am currently learning backend technology.<br>
+I am V.Pavan chaitanya.<br>I learnt the Devops tools and also the AWS.<br>
 
 
 ## 🌐 Socials:
