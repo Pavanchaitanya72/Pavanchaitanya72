@@ -1,5 +1,4 @@
-als:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavanchaitanya23) 
+
 ## Hi there 👋
 
 # 💫 About Me:
@@ -9,7 +8,9 @@ I am V.Pavan chaitanya.<br>I have developed strong technical knowledge in AWS Cl
 ## 🌐 Soci
 # 💻 Tech Stack:
 Here’s your updated skill badge list with the additional technologies included:
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavanchaitanya23) 
+
 
 
 
